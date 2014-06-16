@@ -52,7 +52,7 @@ function get(filepath, opts, done) {
       }
     }
 
-    done(undefined, poly);
+    done(undefined, out);
   });
 }
 
